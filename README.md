@@ -1,6 +1,6 @@
-# Angular C\# GraphQL Demo
+# Shopping Cart Service
 
-> Example project for setting up a GraphQL powered Angular app using .NET Core 6.
+> Sample shopping cart CRUD service using ASP.NET 6 and GraphQL
 
 ## Requirements
 
